@@ -1,7 +1,7 @@
 body{
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     background-color: lightcyan;
-
+padding: 30px;
 }
 .h1{
     padding: 20px;
@@ -9,10 +9,9 @@ body{
 
 .home{
     list-style: circle;
-    width: 3000px;
+    width: 1000px;
     height: 1500px;
-    margin: 50px;
-    outline: solid 1px black;
+    
     
 }
 .ul{
@@ -33,4 +32,24 @@ a{
 img{
     padding: 20px;
     width: 300px;
+}
+
+.ingredients{
+    padding-left: 50px;
+    font-size: 18px;
+    margin: 10px;
+    font-weight: bold;
+}
+
+.directions{
+    padding-top: 15px;
+    padding-left: 50px;
+    
+}
+h4{
+    font-size: 18px;
+    font-weight: bold;
+}
+p{
+    font-size: 16px;
 }
